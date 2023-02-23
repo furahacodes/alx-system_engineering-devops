@@ -1,1 +1,1 @@
-#This is ALX shell basics exercise.
+Sell init variables and expansion
